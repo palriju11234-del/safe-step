@@ -1,0 +1,7 @@
+{
+  "name": "SafeStep - Alzheimer's Tracker",
+  "description": "A geofencing and real-time location monitoring app designed to keep Alzheimer's patients safe by alerting caretakers if they wander outside a defined safety zone.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
